@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Breakout.cpp">
+    <ClCompile Include="src\Breakout.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
